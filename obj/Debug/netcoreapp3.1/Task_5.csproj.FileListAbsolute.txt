@@ -1,0 +1,13 @@
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_5/Task_5/bin/Debug/netcoreapp3.1/Task_5.deps.json
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_5/Task_5/bin/Debug/netcoreapp3.1/Task_5.runtimeconfig.json
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_5/Task_5/bin/Debug/netcoreapp3.1/Task_5.runtimeconfig.dev.json
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_5/Task_5/bin/Debug/netcoreapp3.1/Task_5.dll
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_5/Task_5/bin/Debug/netcoreapp3.1/Task_5.pdb
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_5/Task_5/obj/Debug/netcoreapp3.1/Task_5.csproj.AssemblyReference.cache
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_5/Task_5/obj/Debug/netcoreapp3.1/Task_5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_5/Task_5/obj/Debug/netcoreapp3.1/Task_5.AssemblyInfoInputs.cache
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_5/Task_5/obj/Debug/netcoreapp3.1/Task_5.AssemblyInfo.cs
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_5/Task_5/obj/Debug/netcoreapp3.1/Task_5.csproj.CoreCompileInputs.cache
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_5/Task_5/obj/Debug/netcoreapp3.1/Task_5.dll
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_5/Task_5/obj/Debug/netcoreapp3.1/Task_5.pdb
+/Users/ilkinibrahimov/Desktop/Visual Studio/Task_5/Task_5/obj/Debug/netcoreapp3.1/Task_5.genruntimeconfig.cache
